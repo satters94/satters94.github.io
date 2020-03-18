@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Avid data scientist, interested in genarlised AI.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+On the job hunt!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tom.satters@gmail.com](mailto:tom@satters.com)
